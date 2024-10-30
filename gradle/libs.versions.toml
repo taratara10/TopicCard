@@ -9,7 +9,7 @@ hilt =  "2.44.2"
 [libraries]
 #android core
 androidx-core = "androidx.core:core-ktx:1.9.0"
-androidx-lifecycle = "androidx.lifecycle:lifecycle-runtime-ktx:2.5.1"
+androidx-lifecycle = "androidx.lifecycle:lifecycle-runtime-ktx:2.8.7"
 
 #compose
 androidx-compose-bom = { module = "androidx.compose:compose-bom", version.ref = "compose-bom" }
