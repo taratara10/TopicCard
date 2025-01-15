@@ -16,7 +16,7 @@ androidx-compose-bom = { module = "androidx.compose:compose-bom", version.ref = 
 compose-material = { module = "androidx.compose.material:material" }
 accompanist-pager = { module = "com.google.accompanist:accompanist-pager", version.ref = "compose-pager" }
 compose-ui = { module = "androidx.compose.ui:ui-tooling-preview" }
-compose-activity = { module = "androidx.activity:activity-compose", version = "1.6.1" }
+compose-activity = { module = "androidx.activity:activity-compose", version = "1.10.0" }
 compose-navigation = { module = "androidx.navigation:navigation-compose", version = "2.5.3" }
 compose-navigation-hilt = { module = "androidx.hilt:hilt-navigation-compose", version = "1.0.0" }
 compose-viewmodel = { module = "androidx.lifecycle:lifecycle-viewmodel-compose", version.ref = "compose-lifecycle" }
